@@ -1,0 +1,41 @@
+#photo {
+    height: 350px;
+    width: 400px;
+    border: 2px solid blue;
+} 
+
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    display: block;
+}
+
+h2 {
+    color: grey;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 4px;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+a {
+    background-color: #056cf5;
+    color: white;
+    padding: 4px 8px 4px 8px;
+    text-decoration: none;
+    font-family: sans-serif;
+    border-radius: 8px;
+}
+
+a:hover { text-decoration: none; }
